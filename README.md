@@ -1,2 +1,3 @@
-# list
-Transições e Animações Exemplo prático - transições e pseudo-elementos
+# List
+
+Transições e Animações Exemplo de transições e pseudo-elementos
